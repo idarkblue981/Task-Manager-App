@@ -14,13 +14,13 @@ The Task Manager App is a simple and efficient tool designed to help you organiz
 ## How to Use
 
 1. Run the script `python task_manager.py`.
-2. Enter your task in the input field and click "Add Task."
-3. To remove a task, select it and click "Remove Task." To remove all tasks, click "Remove All Tasks."
-4. To mark a task as complete, select it and click "Complete Task." To mark all tasks as complete, click "Complete All Tasks."
-5. To view a list of all tasks, click "List All Tasks." For completed tasks, click "List Completed Tasks." For uncompleted tasks, click "List Uncompleted Tasks."
-6. To see the count of tasks, click "Count All Tasks." For completed tasks count, click "Count Completed Tasks." For uncompleted tasks count, click "Count Uncompleted Tasks."
-7. For additional help, click "Help."
-8. To exit the program, click "Exit."
+2. Enter your task in the input field and click "Add Task".
+3. To remove a task, select it and click "Remove Task". To remove all tasks, click "Remove All Tasks".
+4. To mark a task as complete, select it and click "Complete Task". To mark all tasks as complete, click "Complete All Tasks".
+5. To view a list of all tasks, click "List All Tasks". For completed tasks, click "List Completed Tasks". For uncompleted tasks, click "List Uncompleted Tasks".
+6. To see the count of tasks, click "Count All Tasks". For completed tasks count, click "Count Completed Tasks". For uncompleted tasks count, click "Count Uncompleted Tasks".
+7. For additional help, click "Help".
+8. To exit the program, click "Exit".
 
 ## Dependencies
 
